@@ -1,2 +1,2 @@
 # cbpi_test
-test_versioning
+test_versioning 2.0
